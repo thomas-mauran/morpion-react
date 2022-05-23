@@ -1,0 +1,8 @@
+.case-btn{
+    width: 100px;
+    height:100px;
+    border: 2px solid black;
+    cursor: pointer;
+    flex: 0 0 33.333333%;
+    background: none;
+}
